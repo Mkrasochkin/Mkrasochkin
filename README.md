@@ -34,9 +34,8 @@ Here are some ideas to get you started:
 - **Version Control**: Git, GitHub
 - **English Language**: B2
 
-[![Top Langs](https://github-readme-stats.vercel.app)]([https://github.com?username=Mkrasochkin])
+[![Top Langs](https://github-readme-stats.vercel.app)](https://github.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app)](https://github.com/Mkrasochkin/github-readme-stats)
 
 
 ### Portfolio
