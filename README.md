@@ -35,11 +35,6 @@ Here are some ideas to get you started:
 - **English Language**: B2
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mkrasochkin&layout=compact&theme=radical" alt="Most Used Languages" />
-</p>
-
-
 ### Portfolio
 
 #### [de_portfolio](https://github.com/Mkrasochkin/de_portfolio)
