@@ -24,14 +24,15 @@ Here are some ideas to get you started:
 - **Programming Languages**: Python, SQL
 - **Databases**: PostgreSQL, Vertica
 - **Orchestration**: Apache Airflow
-- **Containerization & Orchestration**: Docker
 - **IDEs & Tools**: Visual Studio Code, Jupyter Notebook, DBeaver
-- **Analytics**: Pandas, PySpark
+
 
 ### Additional Skills:
 - **Stream Processing**: Apache Kafka, Apache Spark
-- **Cloud Technologies**: Yandex Cloud
+- **Containerization**: Docker
 - **Version Control**: Git, GitHub
+- **Analytics**: Pandas, PySpark
+- **Cloud Technologies**: Yandex Cloud
 - **English Language**: B2
 
 
