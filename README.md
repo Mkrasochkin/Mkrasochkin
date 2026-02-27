@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 Ищу позицию инженера данных в компании, где я смогу реализовать свои навыки, расти профессионально и вносить свой вклад в развитие компании.
 
 ### Primary Skills:
-- **Data Engineering**: ETL, Data Warehousing, Data Pipelines
 - **Programming Languages**: Python, SQL
+- **Data Engineering**: ETL, Data Warehousing, Data Pipelines
 - **Databases**: PostgreSQL, Vertica
 - **Orchestration**: Apache Airflow
-- **IDEs & Tools**: Visual Studio Code, Jupyter Notebook, DBeaver
+- **IDEs & Tools**: Visual Studio Code, DBeaver, Jupyter Notebook
 
 
 ### Additional Skills:
