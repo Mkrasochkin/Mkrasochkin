@@ -1,4 +1,4 @@
-## Hi there, I'm Mike! 👋
+## Hi there 👋
 
 ### Data Engineer
 <!--
